@@ -20,10 +20,9 @@ Ahora procedemos a examinar el desarrollo en simulación. Se hizo el modelado CA
 
 ![VID_SIM](IMG/VIDEO_SIMULACION.png)
 
-Finalmente, realizamos el montaje del sistema en el laboratorio y cargamos el código RAPID en el manipulador. El siguiente video enseña el correcto funcionamiento de la implementación e ilustra todo lo mencionado anteriormente.
-
-![VID_COMP](IMG/VIDEO_COMPLETO.png)
-
-Por último recordamos que todos los diseños CAD y simulaciones se encuentran presentes en los archivos de este repositorio.
+Finalmente, realizamos el montaje del sistema en el laboratorio y cargamos el código RAPID en el manipulador.
+Adicionalmente, recordamos que todos los diseños CAD y simulaciones se encuentran presentes en los archivos de este repositorio.
 
 ***
+
+### Videos:
