@@ -12,7 +12,8 @@ Comprendiendo el objetivo del proyecto, se diseño en inventor el modelo de un g
 
 Una vez completado este diseño se contrató el servicio de corte laser en MDF y se adecuó una lámina del mismo material y de dimensiones 400x200mm para realizar el procedimiento de recogida y ensamblaje. Véase en la imágen siguiente la disposición física de los elementos.
 
-![IMG_FOTO_CONSTRUCCION](IMG/FOTO_CONSTRUCCION.png)
+!(https://user-images.githubusercontent.com/38962033/204063049-6ccde28d-3e5e-4bdf-8ee7-cb7dc7758b3d.png)
+
 
 ![IMG_FOTO_CONSTRUCCION](IMG/FOTO_CONSTRUCCION.png)
 
