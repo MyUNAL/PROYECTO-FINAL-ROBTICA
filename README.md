@@ -24,4 +24,5 @@ Adicionalmente, recordamos que todos los diseños CAD y simulaciones se encuentr
 
 ***
 
-### Videos:
+### Video:
+[![Alt text](https://img.youtube.com/vi/9xj7O0ZHB8c/0.jpg)](https://www.youtube.com/watch?v=9xj7O0ZHB8c)
