@@ -12,7 +12,8 @@ Una vez completado este diseño se contrató el servicio de corte laser en MDF y
 
 
 
-![IMG_FOTO_CONSTRUCCION](IMG/FOTO_CONSTRUCCION.png)
+![image](https://user-images.githubusercontent.com/38962033/204065767-95eee84e-81c0-4758-ba1e-5487c5cda36c.png)
+
 
 Ahora procedemos a examinar el desarrollo en simulación. Se hizo el modelado CAD de todo el sistema y la herramienta, decidiendo usar la misma herramienta ya implementada en laboratorios anteriores y se sujetó la ventosa utilizando una serie de amarres plásticos. Se llevaron todas estas geometrías a Robot Studio y se programó el código RAPID correspondiente para todas las trayectorias de recogida y ensamble de cada una de las piezas del gripper y señales de las salidas digitales de control de la válvula. Véase el siguiente vídeo de la simulación en Robot Studio.
 
