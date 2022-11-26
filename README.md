@@ -6,12 +6,10 @@
 
 Comprendiendo el objetivo del proyecto, se diseño en inventor el modelo de un gripper de 5 piezas, de las cuales todas tienen un circulo del mismo diametro de la ventosa con el fin de alinear estos centros y realizar el levantamiento y armado con el manipulador de una forma mucho más sencilla. Véase en las imagenes subsecuentes el diseño planteado para el gripper.
 
-![IMG_PLANO](IMG/PLANO.png)
-
-![IMG_PLANO](IMG/PLANO.png)
+![image](https://user-images.githubusercontent.com/38962033/204063743-379bb435-2ef4-449d-b36d-1a9dd7a2ea6b.png)
 
 Una vez completado este diseño se contrató el servicio de corte laser en MDF y se adecuó una lámina del mismo material y de dimensiones 400x200mm para realizar el procedimiento de recogida y ensamblaje. Véase en la imágen siguiente la disposición física de los elementos.
-![image](https://user-images.githubusercontent.com/38962033/204063743-379bb435-2ef4-449d-b36d-1a9dd7a2ea6b.png)
+
 
 
 ![IMG_FOTO_CONSTRUCCION](IMG/FOTO_CONSTRUCCION.png)
